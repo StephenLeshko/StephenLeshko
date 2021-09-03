@@ -5,7 +5,7 @@ Hello, my name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 
 ## Skills: 
 * ☕ Java 
-* ⚙️ JS
+* 🟡 JS
 * 💻 HTML & CSS
 
 
