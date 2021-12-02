@@ -7,6 +7,8 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 * ☕ Java 
 * 🟡 JS
 * 💻 HTML & CSS
+* 🐍 Basic Python
+* 🌐 Basic C & C++
 
 
 
