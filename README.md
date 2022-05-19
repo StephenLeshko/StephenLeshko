@@ -7,12 +7,12 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 * ☕ Java (Swing & AWT)
 * 🟡 JS
 * 💻 HTML & CSS
-* 🐍 Basic Python
+* 🐍 Python
 * 🌐 Basic C & C++
 
 ## Other:
 * Rank 4 kyu on Codewars
-* Member of Penn State Google Developer Student Club
+* Tech Lead @ Penn State Google Developer Student Club
 
 
 
