@@ -5,7 +5,7 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 
 ## Skills: 
 * ☕ Java (Swing, AWT, Data Structures, Web Scraping)
-* 🟡 JS (Node, DOM Manipulation, Async, Event-riven)
+* 🟡 JS (Node, DOM Manipulation, Async, Event-Driven)
 * 💻 HTML & CSS
 * 🐍 Python (I/O, TensorFlow, Data Structures, Pygame)
 * 🌐 Basic C & C++
