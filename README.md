@@ -13,7 +13,7 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 
 ## Other:
 * Tech Lead @ Penn State Google Developer Student Club
-* Machine Learning Expert for PresentAI
-* Machine Learning Developer for TutorAI
-* Developer for CareerUP
+* Founder and Lead Developer @ PresentAI
+* Tech Lead @ TutorAI
+* Developer @ CareerUP
 * Rank 4 kyu on Codewars
