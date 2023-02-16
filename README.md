@@ -5,7 +5,7 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 
 ## Skills: 
 * 🟡 JS (Next.js, React, Node, Express, TensorFlow.js, Full-Stack Apps)
-* 🐍 Python (I/O, TensorFlow, Data Structures, Pygame, Django)
+* 🐍 Python (TensorFlow, Django, Scikit-learn, Pandas)
 * ☁️ Google Cloud Platform, Firebase, Microsoft Azure
 * ☕ Java (Swing, AWT, Data Structures, Web Scraping)
 * 💻 HTML & CSS
@@ -17,4 +17,3 @@ Hello! My name is Stephen Leshko and I am from Downingtown PA, outside Philadelp
 * Machine Learning Developer for TutorAI
 * Developer for CareerUP
 * Rank 4 kyu on Codewars
-
