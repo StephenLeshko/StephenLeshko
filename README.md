@@ -1,6 +1,6 @@
 
 ![](https://github.com/StephenLeshko/StephenLeshko/blob/main/GitHubBanner.png)
-## About Me:
+### About Me:
 Hello! My name is Stephen Leshko and I am an aspiring software engineer, currently studying at Penn State University. I design web applications that make use of machine learning and backend services like Firebase and Azure. In my free time I enjoy working out, playing golf, and watching Penn State & Green Bay football.
 
 ## What I've Built:
