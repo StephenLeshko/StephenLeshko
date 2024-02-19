@@ -11,6 +11,12 @@ Hello! My name is Stephen Leshko and I am an aspiring software engineer, current
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,gcp,azure,tensorflow,java,firebase,flutter,css,c,mysql,github,discord)
 
+## My Resume:
+For a detailed overview of my professional background and projects, please refer to [my resume](https://github.com/StephenLeshko/StephenLeshko/blob/main/StephenLeshkoResume.pdf).
+
+## Leadership Presentation:
+To understand why I am a strong candidate for a leadership position, watch my digital video presentation. INSERT HERE
+
 ## Other:
 * Tech Lead @ Penn State Google Developer Student Club
 * Founder and Lead Developer @ PresentAI
