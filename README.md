@@ -15,7 +15,7 @@ Hello! My name is Stephen Leshko and I am an aspiring software engineer, current
 For a detailed overview of my professional background and projects, please refer to [my resume](https://github.com/StephenLeshko/StephenLeshko/blob/main/StephenLeshkoResume.pdf).
 
 ## Leadership Presentation:
-To understand why I am a strong candidate for a leadership position, watch my digital video presentation. INSERT HERE
+To understand why I am a strong candidate for a leadership position, watch my digital video [presentation](https://drive.google.com/file/d/1yTzYon-rrCmEMvav3qObSzbZOPvzpC99/view?usp=sharing).
 
 ## Other:
 * Tech Lead @ Penn State Google Developer Student Club
