@@ -1,7 +1,7 @@
 
 ![](https://github.com/StephenLeshko/StephenLeshko/blob/main/GitHubBanner.png)
 ### About Me:
-Hello! My name is Stephen Leshko and I am an aspiring software engineer, currently studying at Penn State University. I design web applications that make use of machine learning and backend services like Firebase and Azure. In my free time I enjoy working out, playing golf, and watching Penn State & Green Bay football.
+My name is Stephen Leshko, and I'm an entrepreneur, software developer, and student. I'm a rising-junior at Penn State studying computer science with a passion for machine learning and full stack development. I have hands-on experience with ongoing AI and software projects, including a web app that creates dynamic resumes and aids in interview practice. I'm skilled in cloud platforms like Google Cloud Platform and Azure, and developer technologies like React and Next.js. Seeking a Summer 2024 internship in software development to continue learning from experienced professionals.
 
 ## What I've Built:
 * [OfferPilot](https://offerpilot.ai/?obdgj) : A web platform for applying for jobs using AI-Crafted, Professional Resumes & cover letters
@@ -13,9 +13,6 @@ Hello! My name is Stephen Leshko and I am an aspiring software engineer, current
 
 ## My Resume:
 For a detailed overview of my professional background and projects, please refer to [my resume](https://github.com/StephenLeshko/StephenLeshko/blob/main/StephenLeshkoResume.pdf).
-
-## Leadership Presentation:
-To understand why I am a strong candidate for a leadership position, watch my digital video [presentation](https://drive.google.com/file/d/1yTzYon-rrCmEMvav3qObSzbZOPvzpC99/view?usp=sharing).
 
 ## Other:
 * Tech Lead @ Penn State Google Developer Student Club
