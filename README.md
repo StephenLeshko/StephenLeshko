@@ -1,10 +1,10 @@
 
 ![](https://github.com/StephenLeshko/StephenLeshko/blob/main/GitHubBanner.png)
 ### About Me:
-My name is Stephen Leshko, and I'm an entrepreneur, software developer, and student. I'm a rising-junior at Penn State studying computer science with a passion for machine learning and full stack development. I have hands-on experience with ongoing AI and software projects, including a web app that creates dynamic resumes and aids in interview practice. I'm skilled in cloud platforms like Google Cloud Platform and Azure, and developer technologies like React and Next.js. Seeking a Summer 2024 internship in software development to continue learning from experienced professionals.
+My name is Stephen Leshko, and I'm an entrepreneur, software developer, and student. I'm a rising-senior at Penn State studying computer science with a passion for machine learning and full stack development. I have hands-on experience with ongoing AI and software projects, including a platform for ranking resumes and matching users with the jobs that fit their resume and interests best, OfferPilot. I'm skilled in cloud platforms like Google Cloud Platform and Azure, and developer technologies like React and Next.js.
 
 ## What I've Built:
-* [OfferPilot](https://offerpilot.ai/?obdgj) : A web platform for applying for jobs using AI-Crafted, Professional Resumes & cover letters
+* [OfferPilot](https://offerpilot.ai/) : A web platform with the mission of landing students & new grads jobs and internships
 * [Achievify](https://www.achievify.org/) : A Next.js app that uses AI to help underprivileged groups learn the best career paths for them and how to achieve it
 * [TutorAI](https://tutorai-v1.vercel.app/) : A web app that leverages a combination of AI & class resources to better study help & efficiency
 
@@ -13,10 +13,3 @@ My name is Stephen Leshko, and I'm an entrepreneur, software developer, and stud
 
 ## My Resume:
 For a detailed overview of my professional background and projects, please refer to [my resume](https://github.com/StephenLeshko/StephenLeshko/blob/main/StephenLeshkoResume.pdf).
-
-## Other:
-* Tech Lead @ Penn State Google Developer Student Club
-* Founder and Lead Developer @ PresentAI
-* Tech Lead @ TutorAI
-* Developer @ CareerUP
-* Rank 4 kyu on Codewars
