@@ -10,6 +10,3 @@ My name is Stephen Leshko, and I'm a software developer and entrepreneur. I'm a 
 
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,gcp,azure,tensorflow,java,firebase,flutter,css,c,mysql,github,discord)
-
-## My Resume:
-For a detailed overview of my professional background and projects, please refer to [my resume](https://github.com/StephenLeshko/StephenLeshko/blob/main/StephenLeshkoResume.pdf).
