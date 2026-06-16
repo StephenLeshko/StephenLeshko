@@ -1,5 +1,3 @@
-![](https://github.com/StephenLeshko/StephenLeshko/blob/main/GitHubBanner.png)
-
 ### About Me:
 Software developer and entrepreneur. Penn State alum with a passion for machine learning and full stack development.
 
